@@ -1,0 +1,5 @@
+set(MAIN_FILES
+	${CMAKE_CURRENT_SOURCE_DIR}/main.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/main.h	
+)
+target_sources(${PROJECT_NAME} PRIVATE ${MAIN_FILES})
