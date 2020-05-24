@@ -1,5 +1,4 @@
 #include "Example1/example1.h"
-#include <iostream>
 
 namespace EXAMPLE1
 {

@@ -1,6 +1,6 @@
 #pragma once
 
-#define EXAMPLE EXAMPLE1
+#define EXAMPLE EXAMPLE0
 
 #include "Example0/example0.h"
 #include "Example1/example1.h"
